@@ -3,7 +3,7 @@
   $host =  'localhost';
   $port = 5432;
   $user = 'postgres';
-  $password = 'prempeh29';
+  $password = '';
   $dbname = 'HASTANE_YÖNETİM_SİSTEMİ';
 
   // Set DSN
